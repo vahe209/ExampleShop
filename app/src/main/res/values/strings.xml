@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OnlineDailyGroceries</string>
+    <string name="recently_viewed_items">Recently Viewed Items</string>
+    <string name="see_more">See More</string>
+    <string name="select_categories">Select Categories</string>
+    <string name="top_discounted_items">Top Discounted Items</string>
+    <string name="search">Search</string>
+    <string name="shop_groceries_items_through_daily_grocery_app_nonline_super_market_store_at_best_prices">Shop groceries items through daily grocery app\nonline super market store at best prices.</string>
+    <string name="daily_groceries">Daily Groceries</string>
+    <string name="select_a_category">Select a category</string>
+</resources>
